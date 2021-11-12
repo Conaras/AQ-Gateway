@@ -1,6 +1,6 @@
 # AQ-Gateway
 ## Implementation of an Air Quality monitoring system
-### This is a guide for an Air Quality monitoring system. The archtecture of the system can be found <a href="https://www.dropbox.com/s/tpa260gga2w65ue/sundesmologia.jpg?dl=0">here</a>.
+##### This is a guide for an Air Quality monitoring system. The archtecture of the system can be found <a href="https://www.dropbox.com/s/tpa260gga2w65ue/sundesmologia.jpg?dl=0">here</a>.
 <ul>
 <li>The sensor we use is the PMS5003 digital and universal particle concentration sensor.</li> 
 <li>To get the measures from the device we use the STM32L072Z microcontroller which is programmed via the Mbed Studio. </li>
