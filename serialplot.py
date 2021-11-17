@@ -30,7 +30,7 @@ for n in x:
 
 plt.plot(x,y1,'-og',label="PM1.0 Standard")
 plt.plot(x,y2,'-or',label="PM2.5 Standard")
-plt.plot(x,y3,'-ob',label="PM10 STandard")
+plt.plot(x,y3,'-ob',label="PM10 Standard")
 plt.plot(x,y4,'-om',label="PM1.0 Environmental")
 plt.plot(x,y5,'-oy',label="PM2.5 Environmental")
 plt.plot(x,y6,'-ok',label="PM10 Environmental")
