@@ -7,6 +7,7 @@
 <li>The Digi Xbee 3 Wireless Protocol is used to transmit the data from the sensor to the receiver so that they can be monitored and handled remotely. The Xbee router is connected to the microcontroller through UART(in order for the data to be forwarded correctly we  connect rx->rx and tx->tx) and the measurements are being sent to the Xbee coordinator that is connected to a remote computer through a serial port (usb).</li>
 <li>The program serial.py is used to read the serial output from the Xbee coordinator and write the values to a csv file called measurements.csv</li>
 <li>The program serialapp.py can be used to append more measurements to an already existing file.</li>
+<li>serialplot.py is used to visualize the measurements</li>
 
 
 
