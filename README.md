@@ -9,6 +9,7 @@
 <li>The program serialapp.py can be used to append more measurements to an already existing file.</li>
 <li>serialplot.py is used to visualize the measurements</li>
 <li>serialplotrt.py is used to visualize the measurements in real time but if you want real time visualization you have to use serial2.py to store the data</li>
+<li>serail2.py also uploads the measurements to a MongoDB Database</li>
 
 
 
